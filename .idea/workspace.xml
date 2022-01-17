@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb4cf5a5-bd17-498f-be43-55a4438a82d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d8KHrRcHCjrFMUUPmLQp1FIevl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../club" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb4cf5a5-bd17-498f-be43-55a4438a82d2" name="Default Changelist" comment="" />
+      <created>1591801195508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591801195508</updated>
+      <workItem from="1591801197190" duration="50000" />
+      <workItem from="1629737997920" duration="181000" />
+      <workItem from="1629738192390" duration="1045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="182" key="#Deployment" timestamp="1629739188017">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="182" key="#Deployment/0.0.1920.1080@0.0.1920.1080" timestamp="1629739188017" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1629739235283">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1629739235283" />
+    <state x="463" y="156" key="SettingsEditor" timestamp="1629738183595">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="463" y="156" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1629738183595" />
+    <state x="822" y="423" key="WebDeployment.AddServerDialog.v.1" timestamp="1629738965068">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="822" y="423" key="WebDeployment.AddServerDialog.v.1/0.0.1920.1080@0.0.1920.1080" timestamp="1629738965068" />
+    <state x="623" y="244" width="672" height="678" key="search.everywhere.popup" timestamp="1629738916820">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="244" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1629738916820" />
+  </component>
+</project>
